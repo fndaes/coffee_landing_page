@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Roast &amp; Root">
+  <rect width="64" height="64" fill="#F3EBDD" />
+  <rect x="4.5" y="4.5" width="55" height="55" fill="none" stroke="#4A2C24" stroke-width="1.2" />
+  <ellipse cx="32" cy="32" rx="10.5" ry="15" transform="rotate(-24 32 32)" fill="none" stroke="#4A2C24" stroke-width="2.4" />
+  <path d="M24.5 20.5c7.5 5.5 9.5 17.5 2.5 25" fill="none" stroke="#C6A15B" stroke-width="2.6" stroke-linecap="round" />
+</svg>
